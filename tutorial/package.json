@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/good-idea/localstack-demo#readme",
   "dependencies": {
-    "aws-sdk": "^2.418.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^6.2.0"
   },
   "devDependencies": {
